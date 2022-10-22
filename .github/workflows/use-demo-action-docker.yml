@@ -1,4 +1,4 @@
-name: Usage docker action
+name: 'Usage docker action'
 
 on:
   push:
